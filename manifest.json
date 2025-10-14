@@ -28,6 +28,7 @@
     },
     "functions": {
         "pesquisarJurisprudencia": {
+            "name": "Pesquisar Jurisprudência nos Tribunais de Justiça",
             "script": "dist/pesquisarJurisprudencia.js",
             "description": "Pesquisa jurisprudência nos Tribunais de Justiça",
             "category": "judicial",
@@ -51,6 +52,7 @@
             ]
         },
         "obterAcordao": {
+            "name": "Obter Acórdão dos Tribunais de Justiça",
             "script": "dist/obterAcordao.js",
             "description": "Obtém íntegra de acórdão específico",
             "category": "judicial",
